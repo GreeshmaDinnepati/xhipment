@@ -1,0 +1,18 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.displayuser{
+  margin-top: 20px;
+}
+.displayuser div{
+  width: 400px;
+  height: 150px;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1),0 6px 20px 0 rgba(0,0,0,0.19);
+}
